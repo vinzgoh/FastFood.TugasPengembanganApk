@@ -212,26 +212,9 @@ Berdasarkan *features* yang telah di-design, dibuatkan diagram *use case*.
 	   Kemudian memberikan informasi pembayaran.
     2. Sistem merekam informasi pembayaran dan kemudian mencetak faktur order dan pembayaran.
     3. Sistem menginformasikan ke staff di Fast Food Restaurant untuk membuat pesanan sesuai dengan faktur order dan pembayaran.
-	4. Sistem menginformasikan ke staff bahwa orderan merupakan delivery atau take away.
-	   
-11. Report POS
+    4. Sistem menginformasikan ke staff bahwa orderan merupakan delivery atau take away.
 
-    **Description**
-    
-    Menampilkan summary transaksi POS berdasarkan kriteria tertentu.
-    
-    **Precondition**
-    
-    User sudah login sebagai user manajemen.
-   
-    **Normal Flow**
-   
-    1. User mengakses menu laporan dan memilih laporan POS.
-    2. Sistem menampilkan form untuk menerima input kriteria laporan.
-    3. User menginput kriteria laporan dan mengklik tombol report.
-    4. Sistem mengolah data report dan kemudian menampilkan laporan kepada user.
-   
-12. Report History
+11. Report History
 
     **Description**
     
