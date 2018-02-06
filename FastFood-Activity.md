@@ -20,7 +20,7 @@
    
 5. Update user account
 
-   ![update-user-account-activity-diagram](img/update-user.png "Update user account activity diagram")
+   ![update-user-account-activity-diagram](img/edit-user.png "Update user account activity diagram")
    
 6. Add new product
 
@@ -32,11 +32,11 @@
    
 8. Update product
 
-   ![update-product-activity-diagram](img/update-product.png "Update product activity diagram")
+   ![update-product-activity-diagram](img/edit-product.png "Update product activity diagram")
    
 9. Order
 
-   ![order-activity-diagram](imag/order.png "Order activity diagram")
+   ![order-activity-diagram](img/order.png "Order activity diagram")
    
 10. Payment
 
